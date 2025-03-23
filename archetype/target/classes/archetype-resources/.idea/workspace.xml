@@ -15,9 +15,12 @@
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/vcs.xml" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-api/pom.xml" afterDir="false" />
-      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-api/src/test/java/${packageInPathFormat}/AppTest.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-api/src/main/java/${packageInPathFormat}/dto/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-api/src/main/java/${packageInPathFormat}/vo/package-info.java" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-app/pom.xml" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-app/src/main/java/${packageInPathFormat}/Application.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-app/src/main/java/${packageInPathFormat}/config/local_cache/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-app/src/main/java/${packageInPathFormat}/config/thread_pool/package-info.java" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-app/src/main/resources/application-dev.yml" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-app/src/main/resources/application-prod.yml" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-app/src/main/resources/application-test.yml" afterDir="false" />
@@ -26,16 +29,41 @@
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-app/src/main/resources/logback-spring.xml" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-app/src/main/resources/mybatis/config/mybatis-config.xml" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-common/pom.xml" afterDir="false" />
-      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-common/src/test/java/${packageInPathFormat}/AppTest.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-common/src/main/java/${packageInPathFormat}/constant/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-common/src/main/java/${packageInPathFormat}/enumeration/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-common/src/main/java/${packageInPathFormat}/exception/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-common/src/main/java/${packageInPathFormat}/util/package-info.java" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-domain/pom.xml" afterDir="false" />
-      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-domain/src/test/java/${packageInPathFormat}/AppTest.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-domain/src/main/java/${packageInPathFormat}/aggregation/event/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-domain/src/main/java/${packageInPathFormat}/aggregation/model/entity/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-domain/src/main/java/${packageInPathFormat}/aggregation/model/entity/root/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-domain/src/main/java/${packageInPathFormat}/aggregation/model/factory/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-domain/src/main/java/${packageInPathFormat}/aggregation/model/valobj/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-domain/src/main/java/${packageInPathFormat}/aggregation/repository/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-domain/src/main/java/${packageInPathFormat}/aggregation/service/package-info.java" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-facade/pom.xml" afterDir="false" />
-      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-facade/src/test/java/${packageInPathFormat}/AppTest.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-facade/src/main/java/${packageInPathFormat}/http/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-facade/src/main/java/${packageInPathFormat}/job/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-facade/src/main/java/${packageInPathFormat}/listener/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-facade/src/main/java/${packageInPathFormat}/rpc/package-info.java" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/pom.xml" afterDir="false" />
-      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/redis/RedisService.java" afterDir="false" />
-      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/test/java/${packageInPathFormat}/AppTest.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/es/config/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/es/dao/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/es/po/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/listener/config/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/listener/publish/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/mysql/config/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/mysql/dao/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/mysql/po/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/mysql/service/impl/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/mysql/service/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/redis/config/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/redis/impl/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/redis/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/repository/package-info.java" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/pom.xml" afterDir="false" />
-      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/src/test/java/${packageInPathFormat}/AppTest.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/src/main/java/${packageInPathFormat}/assembler/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/src/main/java/${packageInPathFormat}/service/package-info.java" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,9 +74,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
         <option value="package-info" />
-        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -75,35 +103,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.${artifactId} [clean].executor": "Run",
-    "Maven.${artifactId} [org.apache.maven.plugins:maven-archetype-plugin:3.3.1:create-from-project].executor": "Run",
-    "Maven.${artifactId}-archetype [clean].executor": "Run",
-    "Maven.${artifactId}-archetype [org.apache.maven.plugins:maven-archetype-plugin:3.3.1:create-from-project].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.Application.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/lixiangyang/Documents/project/java-project/${artifactId}-archetype/app/src/main/resources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.${artifactId} [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.${artifactId} [org.apache.maven.plugins:maven-archetype-plugin:3.3.1:create-from-project].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.${artifactId}-archetype [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.${artifactId}-archetype [org.apache.maven.plugins:maven-archetype-plugin:3.3.1:create-from-project].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Application.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lixiangyang/Documents/project/java-project/${artifactId}-archetype/app/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="${symbol_dollar}PROJECT_DIR${symbol_dollar}/app/src/main/resources" />
@@ -162,6 +190,7 @@
       <workItem from="1741430500853" duration="5385000" />
       <workItem from="1741436424516" duration="2765000" />
       <workItem from="1741439527265" duration="228000" />
+      <workItem from="1742723258932" duration="2314000" />
     </task>
     <servers />
   </component>

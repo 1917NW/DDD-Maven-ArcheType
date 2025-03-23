@@ -2,7 +2,6 @@
 <archetype-descriptor xsi:schemaLocation="https://maven.apache.org/plugins/maven-archetype-plugin/archetype-descriptor/1.1.0 https://maven.apache.org/xsd/archetype-descriptor-1.1.0.xsd" name="ddd"
     xmlns="https://maven.apache.org/plugins/maven-archetype-plugin/archetype-descriptor/1.1.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-
   <modules>
     <module id="${rootArtifactId}-facade" dir="__rootArtifactId__-facade" name="${rootArtifactId}-facade">
       <fileSets>
