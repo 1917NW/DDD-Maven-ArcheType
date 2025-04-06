@@ -5,9 +5,18 @@
   <artifactId>${artifactId}</artifactId>
   <version>${version}</version>
   <packaging>pom</packaging>
-
+  <modules>
+    <module>${rootArtifactId}-facade</module>
+    <module>${rootArtifactId}-api</module>
+    <module>${rootArtifactId}-app</module>
+    <module>${rootArtifactId}-common</module>
+    <module>${rootArtifactId}-domain</module>
+    <module>${rootArtifactId}-infrastructure</module>
+    <module>${rootArtifactId}-case</module>
+  </modules>
   <name>${artifactId}</name>
   <url>http://maven.apache.org</url>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

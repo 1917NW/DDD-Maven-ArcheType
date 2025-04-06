@@ -81,6 +81,9 @@
       <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-facade/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-facade/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-infrastructure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-infrastructure/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-infrastructure/src/main/java/repository/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-infrastructure/src/main/java/adapter/repository/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/assembler/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-service/src/main/java/service/package-info.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/projects/basic/archetype.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/projects/basic/archetype.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/archetype-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/archetype-metadata.xml" afterDir="false" />
@@ -137,6 +140,7 @@
   &quot;keyToString&quot;: {
     &quot;Maven.ddd-archetype [install].executor&quot;: &quot;Run&quot;,
     &quot;Maven.ddd-archetype [org.apache.maven.plugins:maven-archetype-plugin:3.3.1:crawl].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ddd-archetype [org.apache.maven.plugins:maven-archetype-plugin:3.3.1:create-from-project].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
@@ -164,6 +168,9 @@
       <workItem from="1725688327824" duration="1000" />
       <workItem from="1742741697816" duration="59000" />
       <workItem from="1743906985748" duration="21000" />
+      <workItem from="1743907155163" duration="84000" />
+      <workItem from="1743907378593" duration="74000" />
+      <workItem from="1743907520150" duration="72000" />
     </task>
     <servers />
   </component>
