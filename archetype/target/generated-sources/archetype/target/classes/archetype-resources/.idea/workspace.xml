@@ -1,0 +1,176 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b41c1e3e-7ec8-43af-94e3-b2028a088dbd" name="Changes" comment="">
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-app/src/main/resources/mapper/test" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-case/src/main/java/${packageInPathFormat}/assembler/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-case/src/main/java/${packageInPathFormat}/service/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/adapter/port/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/adapter/repository/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/adapter/port/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/adapter/repository/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../DDD-Maven-ArcheType" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-domain/src/main/java/aggregation/adapter/port/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-infrastructure/src/main/java/adapter/port/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-domain/src/main/java/aggregation/adapter/port/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-infrastructure/src/main/java/adapter/port/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-domain/src/main/java/it/pkg/aggregation/adapter/port/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-domain/src/main/java/it/pkg/aggregation/adapter/repository/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-infrastructure/src/main/java/it/pkg/adapter/port/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-infrastructure/src/main/java/it/pkg/adapter/repository/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../.idea/encodings.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../.idea/vcs.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-api/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-api/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-api/src/main/java/${packageInPathFormat}/dto/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-api/src/main/java/${packageInPathFormat}/dto/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-api/src/main/java/${packageInPathFormat}/vo/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-api/src/main/java/${packageInPathFormat}/vo/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-app/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-app/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-app/src/main/java/${packageInPathFormat}/config/local_cache/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-app/src/main/java/${packageInPathFormat}/config/local_cache/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-app/src/main/java/${packageInPathFormat}/config/thread_pool/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-app/src/main/java/${packageInPathFormat}/config/thread_pool/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-common/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-common/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-common/src/main/java/${packageInPathFormat}/constant/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-common/src/main/java/${packageInPathFormat}/constant/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-common/src/main/java/${packageInPathFormat}/enumeration/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-common/src/main/java/${packageInPathFormat}/enumeration/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-common/src/main/java/${packageInPathFormat}/exception/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-common/src/main/java/${packageInPathFormat}/exception/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-common/src/main/java/${packageInPathFormat}/util/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-common/src/main/java/${packageInPathFormat}/util/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/event/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/event/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/model/entity/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/model/entity/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/model/entity/root/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/model/entity/root/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/model/factory/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/model/factory/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/model/valobj/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/model/valobj/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/repository/package-info.java" beforeDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/service/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-domain/src/main/java/${packageInPathFormat}/aggregation/service/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-facade/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-facade/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-facade/src/main/java/${packageInPathFormat}/http/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-facade/src/main/java/${packageInPathFormat}/http/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-facade/src/main/java/${packageInPathFormat}/job/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-facade/src/main/java/${packageInPathFormat}/job/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-facade/src/main/java/${packageInPathFormat}/listener/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-facade/src/main/java/${packageInPathFormat}/listener/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-facade/src/main/java/${packageInPathFormat}/rpc/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-facade/src/main/java/${packageInPathFormat}/rpc/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/es/config/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/es/config/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/es/dao/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/es/dao/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/es/po/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/es/po/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/listener/config/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/listener/config/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/listener/publish/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/listener/publish/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/mysql/config/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/mysql/config/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/mysql/dao/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/mysql/dao/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/mysql/po/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/mysql/po/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/mysql/service/impl/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/mysql/service/impl/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/mysql/service/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/mysql/service/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/redis/config/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/redis/config/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/redis/impl/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/redis/impl/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/redis/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/redis/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-infrastructure/src/main/java/${packageInPathFormat}/repository/package-info.java" beforeDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-service/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-case/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-service/src/main/java/${packageInPathFormat}/assembler/package-info.java" beforeDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../ddd-service/src/main/java/${packageInPathFormat}/service/package-info.java" beforeDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/misc.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/misc.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/workspace.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/META-INF/maven/archetype-metadata.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/META-INF/maven/archetype-metadata.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/.idea/vcs.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/.idea/workspace.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-app/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-app/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-domain/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-domain/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-domain/src/main/java/aggregation/repository/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-domain/src/main/java/aggregation/adapter/repository/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-facade/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-facade/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-infrastructure/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-infrastructure/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-infrastructure/src/main/java/repository/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/__rootArtifactId__-infrastructure/src/main/java/adapter/repository/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/test/resources/projects/basic/archetype.properties" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/test/resources/projects/basic/archetype.properties" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/META-INF/maven/archetype-metadata.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/META-INF/maven/archetype-metadata.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/.idea/vcs.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/.idea/workspace.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-app/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-app/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-domain/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-domain/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-domain/src/main/java/aggregation/repository/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-domain/src/main/java/aggregation/adapter/repository/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-facade/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-facade/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-infrastructure/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-infrastructure/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-infrastructure/src/main/java/repository/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/__rootArtifactId__-infrastructure/src/main/java/adapter/repository/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/classes/archetype-resources/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/${artifactId}-${version}.jar" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/${artifactId}-${version}.jar" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/archetype.properties" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/archetype.properties" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-app/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-app/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-domain/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-domain/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-domain/src/main/java/it/pkg/aggregation/repository/package-info.java" beforeDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-facade/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-facade/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-infrastructure/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-infrastructure/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-infrastructure/src/main/java/it/pkg/repository/package-info.java" beforeDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-service/pom.xml" beforeDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-service/src/main/java/it/pkg/assembler/package-info.java" beforeDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/basic-service/src/main/java/it/pkg/service/package-info.java" beforeDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/test-classes/projects/basic/project/basic/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../../../../soft/apache-maven-3.8.8" />
+        <option name="localRepository" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../../../../soft/maven-local-repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../../../../../../soft/apache-maven-3.8.8/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2uiqMmY2rAhfbyy8HIaEhOTmHsR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.${artifactId} [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.${artifactId} [org.apache.maven.plugins:maven-archetype-plugin:3.3.1:crawl].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b41c1e3e-7ec8-43af-94e3-b2028a088dbd" name="Changes" comment="" />
+      <created>1725688261158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725688261158</updated>
+      <workItem from="1725688327824" duration="1000" />
+      <workItem from="1742741697816" duration="59000" />
+      <workItem from="1743906985748" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

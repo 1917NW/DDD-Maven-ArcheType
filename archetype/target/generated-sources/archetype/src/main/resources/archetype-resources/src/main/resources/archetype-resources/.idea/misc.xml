@@ -1,0 +1,40 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+${symbol_pound}set( ${symbol_dollar}symbol_pound = '${symbol_pound}' )
+${symbol_pound}set( ${symbol_dollar}symbol_dollar = '${symbol_dollar}' )
+${symbol_pound}set( ${symbol_dollar}symbol_escape = '${symbol_escape}' )
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="${symbol_dollar}{symbol_dollar}PROJECT_DIR${symbol_dollar}{symbol_dollar}/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://${symbol_dollar}{symbol_dollar}PROJECT_DIR${symbol_dollar}{symbol_dollar}/out" />
+  </component>
+</project>

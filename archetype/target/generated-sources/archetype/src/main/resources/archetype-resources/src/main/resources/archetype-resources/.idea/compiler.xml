@@ -1,0 +1,40 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+${symbol_pound}set( ${symbol_dollar}symbol_pound = '${symbol_pound}' )
+${symbol_pound}set( ${symbol_dollar}symbol_dollar = '${symbol_dollar}' )
+${symbol_pound}set( ${symbol_dollar}symbol_escape = '${symbol_escape}' )
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="${symbol_dollar}{artifactId}-domain" />
+        <module name="${symbol_dollar}{artifactId}-app" />
+        <module name="${symbol_dollar}{artifactId}-infrastructure" />
+        <module name="${symbol_dollar}{artifactId}-service" />
+        <module name="${symbol_dollar}{artifactId}-api" />
+        <module name="${symbol_dollar}{artifactId}-common" />
+        <module name="${symbol_dollar}{artifactId}-facade" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_parentArtifactId_-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="_parentArtifactId_-api" options="-parameters" />
+      <module name="${symbol_dollar}{artifactId}-api" options="-parameters" />
+      <module name="${symbol_dollar}{artifactId}-app" options="-parameters" />
+      <module name="${symbol_dollar}{artifactId}-common" options="-parameters" />
+      <module name="${symbol_dollar}{artifactId}-domain" options="-parameters" />
+      <module name="${symbol_dollar}{artifactId}-facade" options="-parameters" />
+      <module name="${symbol_dollar}{artifactId}-infrastructure" options="-parameters" />
+      <module name="${symbol_dollar}{artifactId}-service" options="-parameters" />
+    </option>
+  </component>
+</project>
