@@ -8,6 +8,8 @@
     <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-api/src/main/resources" charset="UTF-8" />
     <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-app/src/main/java" charset="UTF-8" />
     <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-app/src/main/resources" charset="UTF-8" />
+    <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-case/src/main/java" charset="UTF-8" />
+    <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-case/src/main/resources" charset="UTF-8" />
     <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-common/src/main/java" charset="UTF-8" />
     <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-common/src/main/resources" charset="UTF-8" />
     <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-domain/src/main/java" charset="UTF-8" />
@@ -16,8 +18,6 @@
     <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-facade/src/main/resources" charset="UTF-8" />
     <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java" charset="UTF-8" />
     <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/resources" charset="UTF-8" />
-    <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/src/main/java" charset="UTF-8" />
-    <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/src/main/resources" charset="UTF-8" />
     <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java" charset="UTF-8" />
     <file url="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/resources" charset="UTF-8" />
   </component>

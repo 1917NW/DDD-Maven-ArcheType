@@ -8,11 +8,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1b2f10c-f1c0-47e6-829f-dcaa525ac419" name="Changes" comment="">
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-app/src/main/resources/mapper/test" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-case/src/main/java/${packageInPathFormat}/assembler/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-case/src/main/java/${packageInPathFormat}/service/package-info.java" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-domain/src/main/java/${packageInPathFormat}/aggregation/adapter/port/package-info.java" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-domain/src/main/java/${packageInPathFormat}/aggregation/adapter/repository/package-info.java" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/adapter/port/package-info.java" afterDir="false" />
       <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/adapter/repository/package-info.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/DDD-Maven-ArcheType" afterDir="false" />
       <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/encodings.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/vcs.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/vcs.xml" afterDir="false" />
       <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-api/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-api/pom.xml" afterDir="false" />
       <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-api/src/main/java/${packageInPathFormat}/dto/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-api/src/main/java/${packageInPathFormat}/dto/package-info.java" afterDir="false" />
       <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-api/src/main/java/${packageInPathFormat}/vo/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-api/src/main/java/${packageInPathFormat}/vo/package-info.java" afterDir="false" />
@@ -52,9 +57,9 @@
       <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/redis/impl/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/redis/impl/package-info.java" afterDir="false" />
       <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/redis/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/redis/package-info.java" afterDir="false" />
       <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-infrastructure/src/main/java/${packageInPathFormat}/repository/package-info.java" beforeDir="false" />
-      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/pom.xml" afterDir="false" />
-      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/src/main/java/${packageInPathFormat}/assembler/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/src/main/java/${packageInPathFormat}/assembler/package-info.java" afterDir="false" />
-      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/src/main/java/${packageInPathFormat}/service/package-info.java" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/src/main/java/${packageInPathFormat}/service/package-info.java" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-case/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/src/main/java/${packageInPathFormat}/assembler/package-info.java" beforeDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}-service/src/main/java/${packageInPathFormat}/service/package-info.java" beforeDir="false" />
       <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,6 +188,8 @@
       <workItem from="1741439527265" duration="228000" />
       <workItem from="1742723258932" duration="2314000" />
       <workItem from="1742741262598" duration="381000" />
+      <workItem from="1743906671635" duration="278000" />
+      <workItem from="1743907456299" duration="36000" />
     </task>
     <servers />
   </component>

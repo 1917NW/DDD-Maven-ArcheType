@@ -6,5 +6,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="${symbol_dollar}PROJECT_DIR${symbol_dollar}" vcs="Git" />
     <mapping directory="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources" vcs="Git" />
+    <mapping directory="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/DDD-Maven-ArcheType" vcs="Git" />
   </component>
 </project>

@@ -32,6 +32,7 @@
       <change beforePath="$PROJECT_DIR$/../../../ddd-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ddd-app/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../ddd-app/src/main/java/org/lxy/config/local_cache/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ddd-app/src/main/java/org/lxy/config/local_cache/package-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../ddd-app/src/main/java/org/lxy/config/thread_pool/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ddd-app/src/main/java/org/lxy/config/thread_pool/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ddd-app/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ddd-app/src/main/resources/application-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../ddd-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ddd-common/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../ddd-common/src/main/java/org/lxy/constant/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ddd-common/src/main/java/org/lxy/constant/package-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../ddd-common/src/main/java/org/lxy/enumeration/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ddd-common/src/main/java/org/lxy/enumeration/package-info.java" afterDir="false" />
@@ -73,9 +74,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-app/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-app/src/main/resources/application-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-domain/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-domain/src/main/java/aggregation/repository/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-domain/src/main/java/aggregation/adapter/repository/package-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-facade/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/__rootArtifactId__-facade/pom.xml" afterDir="false" />
@@ -87,9 +91,12 @@
       <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/projects/basic/archetype.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/projects/basic/archetype.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/archetype-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/archetype-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/archetype-resources/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/archetype-resources/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/archetype-resources/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/archetype-resources/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/__rootArtifactId__-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/archetype-resources/__rootArtifactId__-app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/__rootArtifactId__-app/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/archetype-resources/__rootArtifactId__-app/src/main/resources/application-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/__rootArtifactId__-domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/archetype-resources/__rootArtifactId__-domain/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/__rootArtifactId__-domain/src/main/java/aggregation/repository/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/archetype-resources/__rootArtifactId__-domain/src/main/java/aggregation/adapter/repository/package-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/__rootArtifactId__-facade/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/archetype-resources/__rootArtifactId__-facade/pom.xml" afterDir="false" />
@@ -171,6 +178,8 @@
       <workItem from="1743907155163" duration="84000" />
       <workItem from="1743907378593" duration="74000" />
       <workItem from="1743907520150" duration="72000" />
+      <workItem from="1743908454918" duration="3000" />
+      <workItem from="1743908597836" duration="10000" />
     </task>
     <servers />
   </component>
