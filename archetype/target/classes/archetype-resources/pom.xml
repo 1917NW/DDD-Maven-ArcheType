@@ -63,7 +63,7 @@
 
       <dependency>
         <groupId>${groupId}</groupId>
-        <artifactId>${rootArtifactId}-service</artifactId>
+        <artifactId>${rootArtifactId}-case</artifactId>
         <version>${version}</version>
       </dependency>
 
@@ -170,11 +170,6 @@
         <version>3.0.3</version>
       </dependency>
 
-      <dependency>
-        <groupId>cn.bugstack.middleware</groupId>
-        <artifactId>db-router-spring-boot-starter</artifactId>
-        <version>1.0.2</version>
-      </dependency>
 
       <dependency>
         <groupId>org.jeasy</groupId>

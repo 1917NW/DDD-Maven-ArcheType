@@ -53,7 +53,7 @@
       </dependency>
       <dependency>
         <groupId>archetype.it</groupId>
-        <artifactId>basic-service</artifactId>
+        <artifactId>basic-case</artifactId>
         <version>0.1-SNAPSHOT</version>
       </dependency>
       <dependency>
@@ -143,11 +143,6 @@
         <version>3.0.3</version>
       </dependency>
       <dependency>
-        <groupId>cn.bugstack.middleware</groupId>
-        <artifactId>db-router-spring-boot-starter</artifactId>
-        <version>1.0.2</version>
-      </dependency>
-      <dependency>
         <groupId>org.jeasy</groupId>
         <artifactId>easy-random-core</artifactId>
         <version>4.3.0</version>
@@ -165,7 +160,7 @@
   </build>
   <modules>
     <module>basic-facade</module>
-    <module>basic-service</module>
+    <module>basic-case</module>
     <module>basic-domain</module>
     <module>basic-infrastructure</module>
     <module>basic-common</module>

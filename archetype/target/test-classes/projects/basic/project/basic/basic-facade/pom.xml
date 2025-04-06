@@ -47,7 +47,7 @@
 
         <dependency>
             <groupId>archetype.it</groupId>
-            <artifactId>basic-service</artifactId>
+            <artifactId>basic-case</artifactId>
         </dependency>
 
         <dependency>
@@ -63,10 +63,7 @@
             <artifactId>rocketmq-spring-boot-starter</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>cn.bugstack.middleware</groupId>
-            <artifactId>db-router-spring-boot-starter</artifactId>
-        </dependency>
+
         <dependency>
             <groupId>com.squareup.retrofit2</groupId>
             <artifactId>converter-gson</artifactId>
